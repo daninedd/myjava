@@ -26,6 +26,7 @@ class EmpManage{
     public void addEmp(Emp emp){
 
         //asdkslhf
+        //lalalalala
         al.add(emp);
     }
 
