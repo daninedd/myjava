@@ -24,9 +24,6 @@ class EmpManage{
         al = new ArrayList();
     }
     public void addEmp(Emp emp){
-
-        //asdkslhf
-        //dfgdfgf
         al.add(emp);
     }
 
